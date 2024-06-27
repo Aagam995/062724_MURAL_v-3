@@ -2,7 +2,7 @@
 <tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
 	<activities>
 		<activity id="urn:articulate:storyline:5lIqw9BcwVH" type="http://adlnet.gov/expapi/activities/course">
-			<name lang="und">062724_MURAL Demo v-3_AJ</name>
+			<name lang="und">062724_MURAL Demo v-4_AJ</name>
 			<description lang="und" />
 			<launch lang="und">index_lms.html</launch>
 		</activity>
